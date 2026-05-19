@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-19T07:01:22.388972+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-05-19T08:15:56.218246+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 48,
       "titles": [
-        {
-          "title": "外交部回应特朗普涉台表态",
-          "url": "https://news.ifeng.com/c/8tEEErjEHHh",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 07时01分]"
-        },
         {
           "title": "特朗普连发15张图分享中国记忆",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9115%E5%BC%A0%E5%9B%BE%E5%88%86%E4%BA%AB%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86%23&t=31&band_rank=1&Refer=top",
@@ -25,6 +14,17 @@
           "ranks": [
             1,
             2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时01分 ~ 08时15分]"
+        },
+        {
+          "title": "外交部回应特朗普涉台表态",
+          "url": "https://news.ifeng.com/c/8tEEErjEHHh",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -48,11 +48,12 @@
           "ranks": [
             5,
             2,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 07时01分]"
+          "appearance_count": 8,
+          "time_info": "[02时01分 ~ 08时15分]"
         },
         {
           "title": "特朗普访华整晚都在谈台湾问题",
@@ -67,6 +68,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时01分 ~ 07时01分]"
+        },
+        {
+          "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
+          "url": "https://www.cls.cn/detail/2374617",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时01分 ~ 08时15分]"
         },
         {
           "title": "特朗普涉台“四不”示警“台独”",
@@ -97,17 +111,15 @@
           "time_info": "[02时01分 ~ 07时01分]"
         },
         {
-          "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
-          "url": "https://www.cls.cn/detail/2374617",
-          "source": "财联社热门",
+          "title": "据CNN：特朗普政府提议接纳更多南非白人难民。",
+          "url": "https://flash.jin10.com/detail/20260519080610728800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            11,
-            12
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 07时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         },
         {
           "title": "特朗普：取消原定于明天的对伊军事打击",
@@ -119,6 +131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "特朗普推迟打击伊朗内幕：中东三国不希望自身能源设施被炸",
+          "url": "https://flash.jin10.com/detail/20260519080354755800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         },
         {
           "title": "美、布两油短线大幅跳水，现货金银快速拉升。特朗普称，应中东国家请求暂缓原定于明天进行的对伊朗的攻击。",
@@ -136,11 +159,12 @@
           "url": "https://www.cls.cn/detail/2374774",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时00分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[07时00分 ~ 08时15分]"
         },
         {
           "title": "UP主独家解读特朗普访华国宴",
@@ -152,6 +176,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时00分 ~ 07时01分]"
+        },
+        {
+          "title": "特朗普连发15张图分享“中国记忆”",
+          "url": "https://news.ifeng.com/c/8tFAH622lBt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         },
         {
           "title": "美国总统特朗普：已作进一步指示，一旦未能达成可接受的协议，应随时准备立即执行对伊朗的大规模全面军事打击行动。",
@@ -182,7 +217,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -220,6 +255,17 @@
           "time_info": "03时57分"
         },
         {
+          "title": "内塔尼亚胡与特朗普通话“讨论重启对伊战事可能性”，阿联酋关键核电站遭袭",
+          "url": "https://wallstreetcn.com/articles/3772466",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
           "title": "美国总统特朗普将于12月14日至15日在迈阿密召开领导人峰会。",
           "url": "https://flash.jin10.com/detail/20260519044155118800",
           "source": "金十数据",
@@ -248,7 +294,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -259,7 +305,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -292,7 +338,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -303,7 +349,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -314,7 +360,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -325,7 +371,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -336,7 +382,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -347,7 +393,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -358,7 +404,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -369,7 +415,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -380,7 +426,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -391,7 +437,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -402,9 +448,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "特朗普：海湾盟友请求推迟对伊军事打击“两三天”",
+          "url": "https://flash.jin10.com/detail/20260519074834100800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         },
         {
           "title": "美国总统特朗普：（关于圣地亚哥枪击事件）这是一个可怕的局面。",
@@ -413,7 +470,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -435,7 +492,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -446,7 +503,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -468,7 +525,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -498,51 +555,31 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "报道：美方同意在谈判期间暂时豁免对伊朗的石油制裁",
           "url": "https://wallstreetcn.com/articles/3772532",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 07时01分]"
+          "appearance_count": 8,
+          "time_info": "[02时01分 ~ 08时15分]"
         },
         {
           "title": "伊朗披露穆杰塔巴受伤细节",
           "url": "https://news.ifeng.com/c/8tEctFxkrzc",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 07时01分]"
-        },
-        {
-          "title": "伊朗披露最高领袖穆杰塔巴受伤细节",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%AB%E9%9C%B2%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%A9%86%E6%9D%B0%E5%A1%94%E5%B7%B4%E5%8F%97%E4%BC%A4%E7%BB%86%E8%8A%82",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 07时01分]"
-        },
-        {
-          "title": "美方被曝将暂停对伊朗的石油制裁",
-          "url": "https://news.ifeng.com/c/8tEXAzuY8D3",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 07时01分]"
+          "appearance_count": 8,
+          "time_info": "[02时01分 ~ 08时15分]"
         },
         {
           "title": "伊朗哈尔克岛油轮积压创峰值，美军封锁令原油出口陷入瓶颈",
@@ -550,11 +587,36 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 07时01分]"
+          "appearance_count": 8,
+          "time_info": "[02时01分 ~ 08时15分]"
+        },
+        {
+          "title": "美方被曝将暂停对伊朗的石油制裁",
+          "url": "https://news.ifeng.com/c/8tEXAzuY8D3",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时01分 ~ 08时15分]"
+        },
+        {
+          "title": "伊朗披露最高领袖穆杰塔巴受伤细节",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%AB%E9%9C%B2%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%A9%86%E6%9D%B0%E5%A1%94%E5%B7%B4%E5%8F%97%E4%BC%A4%E7%BB%86%E8%8A%82",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时01分 ~ 08时15分]"
         },
         {
           "title": "伊朗成立管理霍尔木兹海峡新机构",
@@ -566,6 +628,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时01分 ~ 07时01分]"
+        },
+        {
+          "title": "伊朗称有权对霍尔木兹海峡海底光缆收“管理费”",
+          "url": "https://news.ifeng.com/c/8tEZfWCwrAJ",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时56分 ~ 08时15分]"
         },
         {
           "title": "伊朗塔斯尼姆通讯社：伊朗在格什姆岛发现美以无人机。",
@@ -588,17 +662,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
-        },
-        {
-          "title": "伊朗称有权对霍尔木兹海峡海底光缆收“管理费”",
-          "url": "https://news.ifeng.com/c/8tEZfWCwrAJ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时56分 ~ 07时01分]"
         },
         {
           "title": "伊朗格什姆岛防空系统启动",
@@ -734,6 +797,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
+          "url": "https://wallstreetcn.com/livenews/3105662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
           "title": "伊朗最高领袖重申将考虑开辟新战线",
           "url": "https://flash.jin10.com/detail/20260519042309628800",
           "source": "金十数据",
@@ -800,6 +874,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "伊朗最高领袖重申将考虑开辟新战线",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%87%8D%E7%94%B3%E5%B0%86%E8%80%83%E8%99%91%E5%BC%80%E8%BE%9F%E6%96%B0%E6%88%98%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
           "title": "【美官员否认美国同意谈判期间暂时豁免对伊朗石油制裁】一名美国官员表示，伊朗方面关于“美国已同意在谈判进行期间解除对伊朗石油制裁”的消息是“虚假的”。当天早些时候，伊朗方面援引谈判团队相关消息人士的话称，美国在最新谈判文本中，已同意在谈判期间对伊朗石油制裁实施临时豁免。（央视）",
           "url": "https://wallstreetcn.com/livenews/3105550",
           "source": "华尔街见闻-快讯",
@@ -814,7 +899,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
@@ -833,11 +918,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 07时01分]"
+          "appearance_count": 8,
+          "time_info": "[02时01分 ~ 08时15分]"
         },
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -847,19 +933,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时00分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[07时00分 ~ 08时15分]"
+        },
+        {
+          "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
+          "url": "https://www.cls.cn/detail/2374806",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         },
         {
           "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
           "url": "https://www.cls.cn/detail/2374787",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时00分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[07时00分 ~ 08时15分]"
         },
         {
           "title": "美股开盘：百度集团涨近4%",
@@ -986,7 +1084,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "马斯克：将针对美国陪审团的OpenAI判决结果向第九巡回法庭提出上诉。",
@@ -1050,9 +1148,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "马斯克对OpenAI诉讼被驳回",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AF%B9OpenAI%E8%AF%89%E8%AE%BC%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         },
         {
           "title": "马斯克起诉Altman案败诉，强制OpenAI重组的企图落空",
@@ -1079,8 +1188,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 07时01分]"
+          "appearance_count": 8,
+          "time_info": "[02时01分 ~ 08时15分]"
         },
         {
           "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
@@ -1111,7 +1220,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -1122,7 +1231,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -1132,6 +1241,67 @@
           "source": "金十数据",
           "ranks": [
             17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "据华尔街日报：谷歌(GOOG.O)与黑石集团(BX.N)共同成立的人工智能云公司计划在2027年上线500兆瓦的算力容量。",
+          "url": "https://flash.jin10.com/detail/20260519080453865800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "据华尔街日报：谷歌(GOOG.O)与黑石集团(BX.N)的协议预计将在当地时间周一晚些时候公布。",
+          "url": "https://flash.jin10.com/detail/20260519080402245800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "谷歌与黑石集团拟成立一家新的AI云公司。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3105675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "据华尔街日报：消息人士透露，谷歌(GOOG.O)与黑石集团(BX.N)将共同创建新的人工智能云公司。黑石将提供50亿美元的股权资本。",
+          "url": "https://flash.jin10.com/detail/20260519080255776800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "周一（5月18日），美股人工智能（AI）赢家指数跌3.21%，报377.39点。 成分股Nebius集团收跌9.13%，摩丁制造MOD跌8.90%，Lumentum跌8.83%跌幅第三大，康宁公司、美光科技进入跌幅前十大，在收涨的七只成分股中，谷歌A、亚马逊涨幅最小，微软涨0.38%，Palantir涨0.86%，Arm控股涨2.85%。",
+          "url": "https://wallstreetcn.com/livenews/3105604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1168,19 +1338,19 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "周一（5月18日），美股人工智能（AI）赢家指数跌3.21%，报377.39点。 成分股Nebius集团收跌9.13%，摩丁制造MOD跌8.90%，Lumentum跌8.83%跌幅第三大，康宁公司、美光科技进入跌幅前十大，在收涨的七只成分股中，谷歌A、亚马逊涨幅最小，微软涨0.38%，Palantir涨0.86%，Arm控股涨2.85%。",
-          "url": "https://wallstreetcn.com/livenews/3105604",
-          "source": "华尔街见闻-快讯",
+          "title": "金价跳水 黑金首饰受追捧",
+          "url": "https://www.toutiao.com/trending/7640315819964645412/",
+          "source": "今日头条",
           "ranks": [
-            9
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时10分"
+          "time_info": "08时15分"
         }
       ]
     }
